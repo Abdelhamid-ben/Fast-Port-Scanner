@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 #Copyright to Mid Set
 #Contact me : fb.com/midset00
-import sys
-import socket
-import socket
 import time
 import os
 from socket import socket
